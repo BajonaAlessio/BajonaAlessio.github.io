@@ -20,23 +20,27 @@ p{
 #logo{
   text-align: left !important;
   font-size:  38px;
+  color: #E6E6E6 !important;
+}
+
+#logo:hover, button:hover {
   color: #BC9D63 !important;
 }
 
-#logo:hover, button:hover{
-  color: #b38d47 !important;
+a{
+  color: #E6E6E6 !important;
 }
 
-h1, a{
-  color: #BC9D63 !important;
+h1, h5, p{
+  color: #0f0f0fdc !important;
 }
 
-h5, p{
-  color: #0F0F0F !important;
+.custom-icon{
+  color:#BC9D63 !important;
 }
 
 a:hover{
-  color: #b38d47 !important;
+  color: #BC9D63 !important;
 }
 
 .navbar-expand-lg .navbar-collapse {
