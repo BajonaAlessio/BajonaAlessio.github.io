@@ -20,23 +20,23 @@ p{
 #logo{
   text-align: left !important;
   font-size:  38px;
-  color: #532E1C !important;
+  color: #BC9D63 !important;
 }
 
-#logo:hover{
-  color: #0F0F0F !important;
+#logo:hover, button:hover{
+  color: #b38d47 !important;
 }
 
-h1{
-  color: #532E1C !important;
+h1, a{
+  color: #BC9D63 !important;
 }
 
-a, h5, p{
+h5, p{
   color: #0F0F0F !important;
 }
 
 a:hover{
-  color: #532E1C !important;
+  color: #b38d47 !important;
 }
 
 .navbar-expand-lg .navbar-collapse {
