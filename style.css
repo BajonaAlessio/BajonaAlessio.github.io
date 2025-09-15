@@ -10,7 +10,7 @@ body {
   font-weight: 486;
   font-style: normal;
     /******/
-  background-color: #FCECDD;
+  background-color: #E6E6E6;
 }
 
 p{
@@ -20,14 +20,19 @@ p{
 #logo{
   text-align: left !important;
   font-size:  42px;
+  color: #532E1C !important;
 }
 
-a, h1, h5, p{
-  color: #00809D !important;
+h1{
+  color: #532E1C !important;
+}
+
+a, h5, p{
+  color: #0F0F0F !important;
 }
 
 a:hover{
-  color: #0095ff !important;
+  color: #532E1C !important;
 }
 
 .navbar-expand-lg .navbar-collapse {
